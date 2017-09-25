@@ -178,7 +178,7 @@ else
     {
         with(target)
         {
-            event_perform(ev_draw, other.event_number);
+            event_perform(ev_draw, event_number);
         }
     }
 }
@@ -258,7 +258,7 @@ else
                 var oldImageYscale = image_yscale;
                 image_xscale = (other.APP_W/other.W)*oldImageXscale;
                 image_yscale = (other.APP_H/other.H)*oldImageYscale;
-                event_perform(ev_draw, other.event_number);
+                event_perform(ev_draw, event_number);
                 image_xscale = oldImageXscale;
                 image_yscale = oldImageYscale;
                 x = oldX;
