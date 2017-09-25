@@ -2,6 +2,8 @@
 
 var retValue = -1;
 
+var derp = argument0;
+
 switch(argument1.object_index)
 {
     case(obj_touche_left) : retValue = obj_input.left; break;

@@ -2,6 +2,8 @@
 
 var isOk = false;
 var obstacleExists = false;
+var derp = argument0;
+var derp2 = argument1;
 while (!isOk)
 {
     with(obj_obstacle)
