@@ -169,7 +169,6 @@ nbAllume = 0;
         playoY = irandom(h-1);
         if (exists(zeGrid[# playoX, playoY]))
         {
-            show_debug("this is random pos for player ", sprite_get_name(persoSprite), " with playoX : ", playoX, " and playoY : ", playoY);
             playo.gridX = playoX;
             playo.gridY = playoY;
             ok = true;
