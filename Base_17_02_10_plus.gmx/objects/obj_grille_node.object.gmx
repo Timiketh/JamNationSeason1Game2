@@ -35,7 +35,7 @@ zeGrid = -1;
 condition = new_call(scr_insto_x_smaller_than, -1, room_width/2);
 
 persoSprite = spr_blueFront;//spr_perso_1;
-scaleSprite = 0.2;
+scaleSprite = 1;
 
 perso = -1;
 
@@ -187,8 +187,8 @@ nbAllume = 0;
     
     if (persoSprite == spr_blueFront)
     {
-        playo.image_xscale = 0.16;
-        playo.image_yscale = 0.16;
+        playo.image_xscale = 0.8;
+        playo.image_yscale = 0.8;
     }
     
     perso = playo;
