@@ -25,10 +25,10 @@
         <arguments>
           <argument>
             <kind>1</kind>
-            <string>obj_musique.volume += 0.1;
-if (obj_musique.volume &gt; 1.5)
+            <string>obj_musique.volume += 0.2;
+if (obj_musique.volume &gt; 1.0)
 {
-    obj_musique.volume = 1.5;
+    obj_musique.volume = 1.0;
 }
 audio_play_sound(son_active_neurone, 1, false);
 </string>

@@ -242,7 +242,7 @@
     <option_facebook_app_display_name></option_facebook_app_display_name>
     <option_facebook_appid></option_facebook_appid>
     <option_facebook_enable>0</option_facebook_enable>
-    <option_fast_collision_compatibility>false</option_fast_collision_compatibility>
+    <option_fast_collision_compatibility>False</option_fast_collision_compatibility>
     <option_freeze>false</option_freeze>
     <option_frequency>0</option_frequency>
     <option_frontimage>nil</option_frontimage>
@@ -472,7 +472,7 @@
     <option_textureGroup1_targets>9223372036854775807</option_textureGroup1_targets>
     <option_textureGroup_count>2</option_textureGroup_count>
     <option_textureGroups0>Default</option_textureGroups0>
-    <option_textureGroups1>Racines</option_textureGroups1>
+    <option_textureGroups1>Partie</option_textureGroups1>
     <option_tizen_app_id>http://yourdomain/Infini</option_tizen_app_id>
     <option_tizen_build_version>0</option_tizen_build_version>
     <option_tizen_display_name>Infini</option_tizen_display_name>
@@ -554,11 +554,11 @@
     <option_win8_store_logo>Configs\Default\Windows8\logos\logo50.png</option_win8_store_logo>
     <option_win8_texture_page>1024</option_win8_texture_page>
     <option_win8_wide_logo>Configs\Default\Windows8\logos\logo310.png</option_win8_wide_logo>
-    <option_winUAP_allowfullscreen>false</option_winUAP_allowfullscreen>
+    <option_winUAP_allowfullscreen>0</option_winUAP_allowfullscreen>
     <option_winUAP_build_version>0</option_winUAP_build_version>
     <option_winUAP_certificate_location>WinUWPRunner_TemporaryKey.pfx</option_winUAP_certificate_location>
     <option_winUAP_display_name>Infini</option_winUAP_display_name>
-    <option_winUAP_fullscreen>false</option_winUAP_fullscreen>
+    <option_winUAP_fullscreen>0</option_winUAP_fullscreen>
     <option_winUAP_internet_capable>0</option_winUAP_internet_capable>
     <option_winUAP_interpolate>-1</option_winUAP_interpolate>
     <option_winUAP_landscape_allowed>-1</option_winUAP_landscape_allowed>
